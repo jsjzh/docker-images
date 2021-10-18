@@ -1,1 +1,1 @@
-From gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard
+From gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard:latest
