@@ -17,3 +17,4 @@ echo -e ">>>>>>>>>>>>>>>>>commit successfully!\n"
 echo -e "You can download image by following command:\n"
 echo -e "./d.sh ${image}\n"
 echo "*************************************************"
+
