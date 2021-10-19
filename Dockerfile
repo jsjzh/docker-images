@@ -1,1 +1,1 @@
-From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/git-init:v0.28.2
+From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/entrypoint:v0.28.2
