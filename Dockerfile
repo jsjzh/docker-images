@@ -1,1 +1,1 @@
-From gcr.io/distroless/base
+From mcr.microsoft.com/powershell:nanoserver
