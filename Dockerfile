@@ -1,1 +1,1 @@
-From gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/webhook:v0.28.2
+From gcr.io/google.com/cloudsdktool/cloud-sdk
