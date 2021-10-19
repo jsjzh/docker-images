@@ -1,1 +1,1 @@
-From gcr.io/google.com/cloudsdktool/cloud-sdk
+From gcr.io/distroless/base
