@@ -1,1 +1,1 @@
-From mcr.microsoft.com/powershell:nanoserver
+From lachlanevenson/k8s-kubectl:latest
